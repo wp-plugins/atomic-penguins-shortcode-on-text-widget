@@ -1,4 +1,4 @@
-===Atomic Penguins Scroll&Reveal===
+===Atomic Penguins Shortcode on Text Widget===
 
 Contributors: hesusko
 Plugin Name: Atomic Penguins Shortcode on Text Widget
